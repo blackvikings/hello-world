@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Hello World</h1>
-        <h2>This is My First React App.</h2>
+        <h2>This is My First React Hello World App.</h2>
       </div>
     );
   }
